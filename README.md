@@ -1,4 +1,4 @@
-aula de git com gdg petropolis
+Aula de git com gdg petropolis
 
-olá bem vindo ao GDG
+Hello well come to the  GDG
 
